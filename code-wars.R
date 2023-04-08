@@ -6,4 +6,5 @@ bool_to_word <- function(bool){
   ifelse(bool, "Yes", "No")
   ifelse(bool, "Yes", "No")
 
+  
 }
